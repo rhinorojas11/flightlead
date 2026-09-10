@@ -16,7 +16,11 @@
 
 ### Operator setup — next
 
-- [ ] Create development-only OpenAI, Supabase, Twilio, and n8n accounts/projects
+- [ ] Create development-only service accounts/projects
+  - [x] OpenAI project and restricted development API key
+  - [x] Supabase project
+  - [x] Twilio trial account
+  - [ ] n8n project
 - [x] Apply migrations to a non-production Supabase project
 - [ ] Replace demo inbound and staff alert numbers with verified test numbers
 - [ ] Configure environment secrets in a server-side secret store
