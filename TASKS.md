@@ -17,7 +17,7 @@
 ### Operator setup — next
 
 - [ ] Create development-only OpenAI, Supabase, Twilio, and n8n accounts/projects
-- [ ] Apply migrations to a non-production Supabase project
+- [x] Apply migrations to a non-production Supabase project
 - [ ] Replace demo inbound and staff alert numbers with verified test numbers
 - [ ] Configure environment secrets in a server-side secret store
 - [ ] Expose the webhook through HTTPS and configure the Twilio test number
