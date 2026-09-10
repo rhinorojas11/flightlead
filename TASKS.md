@@ -12,10 +12,10 @@
 - [x] Add pull-request checks for tests, types, and production build
 - [x] Document the placeholder n8n workflow
 - [x] Initialize `main` with a personal Git identity and connect the GitHub repository
+- [x] Authenticate this Mac with GitHub and push the initial `main` commit
 
 ### Operator setup — next
 
-- [ ] Authenticate this Mac with GitHub and push the initial `main` commit
 - [ ] Create development-only OpenAI, Supabase, Twilio, and n8n accounts/projects
 - [ ] Apply migrations to a non-production Supabase project
 - [ ] Replace demo inbound and staff alert numbers with verified test numbers
